@@ -46,7 +46,7 @@ function ToDoList(){
 
     return (
         <div>
-            <h1>Lista de Tarefas</h1>
+            <h1>Lista de Tarefas xD</h1>
             <form onSubmit={adicionaItem}>
                 <input 
                     id="input-entrada"
